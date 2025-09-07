@@ -28,20 +28,19 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,idea,unity,maven,aws" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,go" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,go,redis" /><br>
 </div>
 
 ## Top open source projects
 <div align="center" style="display:flex; justify-content: space-around;">
 
+[![IDS Project](https://github-readme-stats.vercel.app/api/pin/?username=carmigab&repo=IS23-AM08&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/carmigab/IS23-AM08)
 
-[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=data-strucutres-and-algorithms-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/data-strucutres-and-algorithms-final-project)
+[![Constraints Analysis for RLC DSL](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=rlc&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mattecenz/rlc/tree/constraint_analysis)
 
-[![IDS Project](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=Software-engineering-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/Software-engineering-final-project)
+[![Numerical Solver for Navier-Stokes](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=AeroHPC_A&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mattecenz/AeroHPC_A)
 
-[![Web Project](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=WEB-TECHNOLOGIES-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/WEB-TECHNOLOGIES-final-project)
-
-[![Challenge Computer Security](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=Challenge_Computer_Security&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/Challenge_Computer_Security)
+[![Library for Arduino Nano RP2040 and SMP FreeRTOS](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=ES_PROJECT_FreeRTOS_SMP_RP2040&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mattecenz/ES_PROJECT_FreeRTOS_SMP_RP2040)
 
 [![Library for Distributed Snapshot](https://github-readme-stats.vercel.app/api/pin/?username=mattecenz&repo=distributed-snapshot&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mattecenz/distributed-snapshot)
 </div>
